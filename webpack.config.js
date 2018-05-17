@@ -10,6 +10,7 @@ module.exports = {
     path: __dirname + '/',
     filename: 'index.js'
   },
+  target: 'node',
   module: {
     rules: [
       {
